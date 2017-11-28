@@ -1,0 +1,15 @@
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///data/code2/mil_slam/ch9_vo_project/0.1/build
+Build Type=Debug
+CMake Binary=file:///usr/local/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+
+[Project]
+VersionControlSupport=kdevgit

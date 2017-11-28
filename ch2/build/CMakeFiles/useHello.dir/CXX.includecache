@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/code2/mil_slam/ch2/hello.h
+
+/data/code2/mil_slam/ch2/useHello.cpp
+hello.h
+/data/code2/mil_slam/ch2/hello.h
+
